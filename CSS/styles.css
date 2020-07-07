@@ -1,4 +1,11 @@
 body{
   padding: 0;
   margin: 0;
+  background-image: url(/images/resort1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  color: whitesmoke;
+  text-align: center;
 }
